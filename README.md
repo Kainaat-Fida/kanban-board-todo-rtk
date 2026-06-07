@@ -1,12 +1,53 @@
-# React + Vite
+# Kanban Board Todo RTK
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Kanban Board Task Management Application built with React.js and Redux Toolkit. The application allows users to create, organize, and manage tasks efficiently using a drag-and-drop style workflow.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Create Tasks
+* Update Task Status
+* Move Tasks Between Columns
+* Redux Toolkit State Management
+* Responsive UI
+* Modern Component-Based Architecture
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* Redux Toolkit
+* JavaScript
+* Vite
+* CSS
+
+## Project Structure
+
+* Task Management
+* Kanban Board Interface
+* Redux Store Integration
+* Reusable Components
+
+## Installation
+
+git clone https://github.com/Kainaat-Fida/kanban-board-todo-rtk.git
+
+cd kanban-board-todo-rtk
+
+npm install
+
+npm run dev
+
+## Future Improvements
+
+* Drag & Drop Functionality
+* User Authentication
+* Task Priorities
+* Due Dates
+* Team Collaboration
+
+## Author
+
+Kainaat Fida
+
+Software Engineering Student | Frontend Developer
+
+GitHub: https://github.com/Kainaat-Fida
